@@ -1,0 +1,32 @@
+p{
+	text-align: center;
+	font-family:'Roboto', sans-serif;
+	font-size: 20px;
+}
+#contact{
+	font-size: 30px;
+	padding-top: 20px;
+	border-bottom: solid 1px #666;
+}
+
+#link{
+	text-decoration: bold;
+	color: black;
+}
+#link:hover {
+	color: dimgray;
+}
+div{
+	background-color: rgb(230, 230, 230);
+	min-height: 180px;
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+	box-shadow: 5px 5px 5px gray;
+}
+#border{
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-right-radius: 20px;
+}

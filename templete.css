@@ -1,0 +1,29 @@
+body {
+	background-image: url(canvas.jpg);
+	outline-width: 40%;	
+	image-rendering: 50%;
+}
+.top_nav_item {
+		font-family:'Roboto', sans-serif;
+	font-size: 1.5em;
+	color: dimgray;
+	line-height: 200%;
+	text-shadow: 2px 2px rgb(60, 52, 71);
+	border: 3px solid gray;
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-decoration: none;
+}
+.top_nav_item:hover {
+	color: rgb(228, 227, 229);
+	text-decoration: none;
+}
+#underline{
+	text-decoration: underline;	
+	color:dimgray ;
+}
+nav{
+	text-align: right;
+}
